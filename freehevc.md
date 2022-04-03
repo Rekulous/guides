@@ -12,4 +12,4 @@ Guide by **RAV1NE**
 4. This should open the Microsoft Store, install the extension
 5. Wait for it to finish and voila, you're done!
 
-### **[You should be able to open and play HEVC files now through Windows Media Player and the Movies & TV app. Try it out! You can also stream HEVC video in Microsoft Edge too.]
+### **[You should be able to open and play HEVC files now through Windows Media Player and the Movies & TV app. Try it out! You can also stream HEVC video in Microsoft Edge too.]**
